@@ -1,0 +1,203 @@
+@font-face {
+    font-family: "Abraham";
+    src: url("fonts/abraham.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Matka";
+    src: url("fonts/matka.ttf") format("truetype");
+}
+.header-text p, .header-text h3{
+    margin:0;
+    text-align: left;
+    font-size:16px;
+}
+.header-text .typing{
+    direction: ltr;
+    font-family: 'Assistant';
+    line-height: 18px;
+    position:relative;
+    left:1px;
+}
+.header-text{
+    margin-right:50px;
+}
+.header-text h3{
+    font-family: "Matka";
+    font-weight: 100;
+    font-size:30px;
+}
+.typing-exercise-header{
+    background-color: #075F56;
+    color:white;
+    overflow: hidden;
+   
+}
+.typing-exercise-container{
+    background-color: #97D6F3;
+    max-width:600px;
+    padding-bottom:20px;
+}
+.typing-exercise-content{
+    max-width:600px;
+    margin:auto;
+    padding:20px;  
+}
+
+.speech-bubble {
+    position: relative;
+    background: #DBF7C0;
+    border-radius: .4em;
+    min-height:80px;
+    max-width:280px;
+    margin:auto;
+    box-shadow:6px 7px 13px -8px #000000;
+    padding:10px;
+    font-family: "Abraham";
+}
+
+.speech-bubble:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 80%;
+    width: 0;
+    height: 0;
+    border: 18px solid transparent;
+    border-left-color: #DBF7C0;
+    border-right: 0;
+    border-bottom: 0;
+    margin-top: -9px;
+    margin-right: -18px;
+}
+
+.speech-bubble .word {
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-size:24px;
+    line-height: 30px;
+ 
+}
+
+.speech-bubble .input,.speech-bubble .input:focus  {
+    display:inline-block;
+    background-color: #DBF7C0;
+    border:0;
+    border-bottom:2px solid black;
+    width:98%;
+    margin-top:5px;
+
+    outline: none;
+    font-size: 20px;
+    font-family: "Abraham";
+  
+}
+.input-container{
+    width:80%;
+    margin:auto;
+}
+
+.header-image{
+   width:42px;
+   height:42px;
+   border-radius:50%;
+   background-color: white;
+   padding:3px;
+   float:left;
+   margin:2px;
+ 
+}
+.header-image, .header-text{
+   display: inline-block;
+}
+
+.header-image img{
+   width:100%;
+  
+}
+.typing-exercise-header-container{
+   max-width:240px;
+   margin:auto;
+   margin-top:3px;
+   margin-bottom:3px;
+}
+.typing-exercise-container .correct{
+    color: lightseagreen;
+}
+.typing-exercise-container .wrong{
+    color:orangered;
+}
+.final{
+    font-size:20px;
+    text-align:center;
+   
+}
+
+.final:after{
+    all: initial;
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 80%;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-right-color: #DBF7C0;
+    border-left: 0;
+    border-bottom: 0;
+    margin-top: -10px;
+    margin-left: -20px;
+}
+.next{
+    background-color: inherit;
+    border:0;
+    outline:0;
+    font-family: 'Abraham';
+    font-weight: bold;
+    font-size:22px;
+    margin-top:20px;
+    
+}
+.next:focus, .restart{
+    cursor: pointer;
+}
+.btn {
+    text-align:left;
+    padding-bottom:10px;
+    max-width: 280px;
+    position:relative;
+    right:20px;
+    margin:auto;
+}
+.input-container{
+    position: relative;
+}
+img.answer{
+    width:30px;
+    position:absolute;
+    top:10px;
+    left:-24px;
+}
+.restart{
+    background: #075F56;
+    color:white;
+    font-family: "Abraham";
+    font-size:18px;
+    border:none;
+    padding:5px 20px;
+    border-radius:20px;
+    margin:10px;
+}
+.sound-btn{
+    font-family: "Abraham";
+    background-color: #075F56;
+    color:white;
+    border:0;
+    outline: 0;
+    cursor: pointer;
+    font-size:18px;
+    width:34px;
+    height:34px;
+    border-radius: 50%;
+    margin-bottom:10px;
+}
