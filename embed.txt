@@ -1,0 +1,79 @@
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=1&random=true"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=2&random=true"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=3&random=true"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=4&random=true"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=5&random=true"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=6&random=true"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=7"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=8"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=9"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
+
+<iframe
+  src="https://madrasafree.github.io/typing-exercise/?list=10"
+  scrolling="no"
+  frameborder="0"
+  height="340"
+  width="100%"
+></iframe>
