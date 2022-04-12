@@ -1,79 +1,117 @@
+<!-- קבוצת האותיות - בא, נא, תא, ת'א, יא - והקלדה במקלדת!  לומדים לכתוב -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=1&random=true"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- קבוצת האותיות - דאל, ד'אל, רא, זאי, ואו, אלף (דוד ארז) -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=2&random=true"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- קבוצת האותיות - ג'ים, חא, ח'א, עין, ע'ין -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=3&random=true"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- קבוצת האותיות - סין, שין, צאד, צ'אד, טא, ט'א -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=4&random=true"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- קבוצת האותיות - פא, קאף, כאף, לאם, מים, הא -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=5&random=true"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- סימנים מיוחדים והמספרים -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=6&random=true"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+<!-- תרגול כתיבה 1 -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=7"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- תרגול כתיבה 2 -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=8"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- תרגול כתיבה 3 -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=9"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
 
+
+<!-- תרגול כתיבה 4 -->
+<h3>תרגיל הקלדה</h3>
+<p>הקלידו את המילים שמוצגות בערבית. שימו לב לרווחים בין המילים והאותיות!</p>
 <iframe
   src="https://madrasafree.github.io/typing-exercise/?list=10"
   scrolling="no"
   frameborder="0"
   height="340"
-  width="100%"
-></iframe>
+  width="100%">
+</iframe>
