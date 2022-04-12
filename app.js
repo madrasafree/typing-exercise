@@ -4,8 +4,9 @@ typeAudio = new Audio("https://madrasa-voice.s3.eu-west-2.amazonaws.com/typing-e
 errorAudio = new Audio("https://madrasa-voice.s3.eu-west-2.amazonaws.com/typing-exercise/error_duck.mp3");
 
 
-let words = []
-let id =  new URLSearchParams(location.search).get("list") || 1;
+let words = [];
+let id = new URLSearchParams(location.search).get("list") || 1;
+let random = new URLSearchParams(location.search).get("random") == "true" || false;
 
 
 start();
@@ -16,11 +17,11 @@ function start() {
         dataType: "json",
         url: "data/data.json",
         async: false,
-        success: function(data) {
+        success: function (data) {
             words = data[id];
         }
     });
-    
+
     $(".final").hide();
     $(".answer").hide();
     $(".next").hide();
@@ -118,7 +119,10 @@ function setWord(word) {
 }
 function nextWord() {
     let numberOfWords = words.length;
-    let nextIndex = Math.floor(Math.random() * numberOfWords);
+    let nextIndex = 0;
+    if (random) {
+        nextIndex = Math.floor(Math.random() * numberOfWords);
+    }
     let nextWord = words[nextIndex];
     words.splice(nextIndex, 1);
     return nextWord;
